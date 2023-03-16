@@ -1,0 +1,9 @@
+[submodule "dependencies/dependencies/lyra"]
+	path = dependencies/dependencies/lyra
+	url = https://github.com/google/lyra.git
+[submodule "dependencies/lyra"]
+	path = dependencies/lyra
+	url = https://github.com/google/lyra.git
+[submodule "dependencies/opus"]
+	path = dependencies/opus
+	url = https://github.com/xiph/opus.git

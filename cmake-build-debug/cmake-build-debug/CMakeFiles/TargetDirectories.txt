@@ -1,0 +1,3 @@
+/home/za/uprog/programing/c++/Mukkava/cmake-build-debug/CMakeFiles/Mukkava.dir
+/home/za/uprog/programing/c++/Mukkava/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/za/uprog/programing/c++/Mukkava/cmake-build-debug/CMakeFiles/rebuild_cache.dir
