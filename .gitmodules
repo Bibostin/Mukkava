@@ -1,6 +1,3 @@
-[submodule "dependencies/dependencies/lyra"]
-	path = dependencies/dependencies/lyra
-	url = https://github.com/google/lyra.git
 [submodule "dependencies/lyra"]
 	path = dependencies/lyra
 	url = https://github.com/google/lyra.git
